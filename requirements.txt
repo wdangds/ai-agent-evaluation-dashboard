@@ -2,13 +2,16 @@
 # someone builds this; "pandas==2.2.3" installs what you tested against.
 # Get exact versions from your environment with: pip freeze
 
-pandas==2.2.3
-requests==2.32.3
-python-dotenv==1.0.1
-sqlalchemy==2.0.36
-psycopg[binary]==3.2.3
-pandera==0.32.1
-pytest==8.3.3
-plotly==5.24.1
-dash==2.18.2
-gunicorn==23.0.0
+pandas==3.0.5
+requests==2.34.2
+python-dotenv==1.2.3
+sqlalchemy==2.0.54
+psycopg[binary]==3.3.5
+pandera==0.33.1
+pytest==9.1.1
+plotly==7.1.0
+dash==4.4.1
+gunicorn==26.2.0
+prefect==3.8.6
+huggingface-hub==1.31.0
+
